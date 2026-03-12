@@ -1,2 +1,78 @@
-# Rapido-Ride-Performance-Analysis
-Rapido Ride Performance Analysis is a Power BI dashboard project that analyzes ride booking data to uncover business insights. The dashboard highlights key KPIs such as total rides, revenue, peak hours, and customer trends. It demonstrates skills in data cleaning, DAX calculations, and interactive dashboard design for data-driven decision making.
+# 🚕 Rapido Ride Performance Analysis (Power BI)
+
+This project presents a **data analysis and interactive dashboard** built using **Power BI** to analyze ride booking data from a ride-hailing platform similar to Rapido.
+
+The objective of this project is to **analyze ride patterns, customer behavior, and business performance** to extract meaningful insights that can help improve operational efficiency and decision-making.
+
+---
+
+## 📊 Project Objectives
+
+The main goals of this analysis are:
+
+- Analyze **ride demand patterns** across different time periods  
+- Identify **peak hours and high-demand periods**  
+- Evaluate **revenue performance**  
+- Understand **customer ride behavior**  
+- Monitor important **business KPIs**
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- **Power BI** – Dashboard development and visualization  
+- **Excel / CSV Dataset** – Data source  
+- **Power Query** – Data cleaning and transformation  
+- **DAX** – Data analysis and KPI calculations
+
+---
+
+## 📈 Key KPIs in the Dashboard
+
+The dashboard includes the following performance metrics:
+
+- Total Rides  
+- Total Revenue  
+- Average Ride Distance  
+- Average Ride Duration  
+- Cancellation Rate  
+- Peak Hour Demand  
+- Payment Method Distribution  
+- New vs Returning Customers
+
+---
+
+## 📊 Dashboard Insights
+
+Some key insights derived from the analysis include:
+
+- Identification of **peak ride booking hours**
+- Understanding **customer ride frequency**
+- Analysis of **revenue trends**
+- Comparison of **payment methods usage**
+- Detection of **high-demand time periods**
+
+---
+
+## 📂 Dashboard Pages
+
+The Power BI dashboard consists of the following sections:
+
+1. **Overview Dashboard** – High level KPIs and ride trends  
+2. **Ride Demand Analysis** – Ride patterns by hour and day  
+3. **Revenue Analysis** – Revenue trends and payment distribution  
+4. **Customer Analysis** – Customer ride behavior insights  
+5. **Peak Hour Analysis** – Identification of high demand periods
+
+---
+
+## 🎯 Project Outcome
+
+This dashboard provides a **clear and interactive view of ride booking performance**, enabling stakeholders to quickly understand business trends and make **data-driven decisions**.
+
+---
+
+## 👨‍💻 Author
+
+**Shubham Pandey**  
+Aspiring Data Analyst skilled in **Excel, SQL, Python, and Power BI**
