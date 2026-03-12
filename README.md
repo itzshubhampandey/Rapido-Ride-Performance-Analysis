@@ -66,13 +66,13 @@ The Power BI dashboard consists of the following sections:
 
 ---
 
-## 🎯 Project Outcome
-
-This dashboard provides a **clear and interactive view of ride booking performance**, enabling stakeholders to quickly understand business trends and make **data-driven decisions**.
-
----
-
-## 👨‍💻 Author
+## 👤 About Me
 
 **Shubham Pandey**  
-Aspiring Data Analyst skilled in **Excel, SQL, Python, and Power BI**
+Aspiring Data Analyst | Power BI | SQL | Python  
+
+- Strong interest in HR Analytics and Business Intelligence  
+- Actively building real-world analytics projects  
+
+📫 Feel free to connect with me on LinkedIn and review my other projects.
+- LinkedIn Link- www.linkedin.com/in/itzshubhampandey
